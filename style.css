@@ -47,6 +47,6 @@ ul li a {
 }
 
 ul li:hover ~ .cursor {
-    transform: scale(6)
+    transform: scale(10)
 }
 
